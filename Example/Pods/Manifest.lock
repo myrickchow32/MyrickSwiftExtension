@@ -1,0 +1,16 @@
+PODS:
+  - MyrickSwiftExtension (0.1.0)
+
+DEPENDENCIES:
+  - MyrickSwiftExtension (from `../`)
+
+EXTERNAL SOURCES:
+  MyrickSwiftExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyrickSwiftExtension: 8c43699a447c413c02fde7e9b4574ad78f6c4114
+
+PODFILE CHECKSUM: 90fcb4fd75fcd50e69129aae0d0c2f5a8c519d62
+
+COCOAPODS: 1.10.1

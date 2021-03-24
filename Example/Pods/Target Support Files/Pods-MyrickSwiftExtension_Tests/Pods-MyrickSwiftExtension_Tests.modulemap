@@ -1,0 +1,6 @@
+framework module Pods_MyrickSwiftExtension_Tests {
+  umbrella header "Pods-MyrickSwiftExtension_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

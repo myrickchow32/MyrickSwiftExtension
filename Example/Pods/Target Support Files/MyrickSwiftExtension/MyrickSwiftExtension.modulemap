@@ -1,0 +1,6 @@
+framework module MyrickSwiftExtension {
+  umbrella header "MyrickSwiftExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}

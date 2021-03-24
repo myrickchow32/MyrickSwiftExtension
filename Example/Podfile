@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'MyrickSwiftExtension_Example' do
+  pod 'MyrickSwiftExtension', :path => '../'
+
+  target 'MyrickSwiftExtension_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
